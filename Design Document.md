@@ -21,6 +21,12 @@ You escape destruction in the tutorial level and must use tmeporary vision to gu
 * Later levels generate more difficult rooms to increase the challenge.
 * Minimalist and atmospheric art style like in Limbo and Sunless Sea. Mostly in black and white.
 
+### Goals
+- {Goals need to be laid out}
+- Collect items throughout the game to improve the robot
+- only so many collectables avaliable so chose to upgrade carefully as there is a limited amount out there
+- get to the end of each level to progress the story and to be able to upgrade parts
+
 ### Target Market
 * 16 – 30 year olds.
 * Gamers who enjoy difficult games like Super Meat Boy and Spelunky.
